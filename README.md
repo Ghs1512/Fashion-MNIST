@@ -10,3 +10,5 @@ agnostic Explanations (LIME) are utilized. LIME heatmaps
 reveal important image areas that impact the model’s predictions,
 whereas SHAP summary plots indicate the most important
 features that drive classification decisions.
+
+<img width="448" alt="image" src="https://github.com/user-attachments/assets/fa08a2e8-0f8a-4eff-a77d-e837faf93a8a" />
